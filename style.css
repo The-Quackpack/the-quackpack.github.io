@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
 body {
-  background-color: black;
+  background-color: #282828;
   color: white;
   font-family: monospace;
 }
@@ -10,5 +12,9 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: white;
+}
+
+h1 {
+  font-family: 'Major Mono Display', monospace;
 }
