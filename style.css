@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+a {
+  color: dodgerblue;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: blue;
+}
